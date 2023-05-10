@@ -1,4 +1,4 @@
-# react-authentication-firebase
+# React Full Ecommerce
 ### Codes used {Frontend}
 #### HTML5, CSS, JS, React.js
 ### Codes used {Backend}
