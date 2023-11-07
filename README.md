@@ -1,4 +1,4 @@
-# React Full Ecommerce
+# React Simple store
 ### Codes used {Frontend}
 #### HTML5, CSS, JS, React.js
 ### Codes used {Backend}
